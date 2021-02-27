@@ -1,0 +1,8 @@
+{
+  "name": "BioNeem",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "4b39066a"
+}
